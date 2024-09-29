@@ -2,6 +2,7 @@
 <h3 align="center">An Ambitious Software Engineering Graduate</h3>
 
 - 📫 How to reach me **lisheng.kong@outlook.com**
+- Since most of my projects are set to private, please reach out to me via the e-mail above or through Linkedin to be able to get a better grasp of the projects done.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
